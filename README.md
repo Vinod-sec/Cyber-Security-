@@ -9,7 +9,7 @@ Author Vinod Ahirwar
 This project includes a network and vulnerability scanner for Cyber Security applications. It allows you to scan a network for active hosts and identify vulnerabilities in web applications.
 
 ## Features
-- Network Scanner to detect live hosts
+- Network Scanner to detect open ports and services
 - Vulnerability Scanner to identify common web vulnerabilities
 - Simple, easy-to-use interface
 
