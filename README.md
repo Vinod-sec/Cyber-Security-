@@ -1,9 +1,7 @@
 # "Cybersecurity Network & Vulnerability Scanner"
-this is my first Git Repository 
 <br>
 Author Vinod Ahirwar 
 <br>
-# Cyber Security Project
 
 ## Description
 This project includes a network and vulnerability scanner for Cyber Security applications. It allows you to scan a network for active hosts and identify vulnerabilities in web applications.
