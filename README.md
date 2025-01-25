@@ -1,6 +1,6 @@
 # "Cybersecurity Network & Vulnerability Scanner"
 <br>
-Author Vinod Ahirwar 
+⦁ Author VINOD AHIRWAR
 <br>
 
 ## Description
